@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sagar.RS.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375a0029c98dc37e19f8a4f0ef5ec1dbba4d482d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fc2f03fa9ca6a9f2740ef51f5c48a3a02216224")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sagar.RS.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sagar.RS.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

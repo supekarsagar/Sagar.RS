@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {DarkModeService} from './_Core/Services/Features/dark-mode.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Sagar.RS.Frontend';
+
+  constructor( ){
+
+  }
+
 }
