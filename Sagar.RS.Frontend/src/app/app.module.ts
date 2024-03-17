@@ -19,6 +19,9 @@ import { SideMenuComponent } from './_Shared/Components/side-menu/side-menu.comp
     BrowserModule,
     AppRoutingModule
   ],
+  exports:[
+    SideMenuComponent
+  ],
   providers: [],
   bootstrap: [AppComponent]
 })
