@@ -5,6 +5,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes:Routes=[
   {path:'' , redirectTo:'user' , pathMatch:'full'},
+  { path: 'mysql', loadChildren: () => import('./Tutorials/mysql/mysql.module').then(m => m.MysqlModule) },
   
 
 ];
